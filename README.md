@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 Hi there!
+### I am a industrial engineer student and a data science aspirant
 
-<!--
-**gabrielcrd/gabrielcrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at [Companhia de Cimento Apodi](https://www.cimentoapodi.com.br)
 
-Here are some ideas to get you started:
+- 📫 How to reach me: [gabecrd@gmail.com](mailto:gabecrd@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: **I love skating**
+
+### Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="gabrielcrd" height="40" width="40" /></a>
+<a href="https://instagram.com/gabecrd" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="gabrielcrd" height="40" width="40" /></a>
+</p>
+
+### Languages and Tools:
+
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> </a> </p>
